@@ -1,0 +1,20 @@
+.newsletter {
+    font-family: $old-standard;
+    font-size: $bold;
+    width: 100%;
+    background-color: $white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 100px;
+    border-color: $orangetiger;
+    h2 {
+        font-size: 24px
+    }
+    &__group {
+        display: inline-block;
+        border-width: 0;
+        font-size: 13px;
+        padding: 5px 10px;
+    }
+}

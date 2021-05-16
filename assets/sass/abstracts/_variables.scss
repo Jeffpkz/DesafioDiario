@@ -1,0 +1,31 @@
+//VARIABLES A UTILIZAR
+
+// Colors
+$white: #ffffff;
+$skincolor: rgb(255, 240, 220);
+$orangetiger:rgb(248, 184, 100);
+
+// Fonts
+
+$old-standard: 'Old Standard TT', serif;
+$raleway: 'Raleway', sans-serif;
+
+// Fonts Size
+
+$xxx-large: 50px;
+$xx-large: 30px;
+$x-large: 20px;
+$large: 10px;
+
+// weigth fonts 
+$bold: 700;
+$regular: 400;
+
+// Breakpoints
+
+$breakpoints: (
+    'small': 576px,
+    'medium': 768px,
+    'large': 992px,
+    'x-large': 1200px,
+);
